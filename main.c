@@ -42,7 +42,7 @@ unsigned long int_arr(unsigned long* array, size_t n) {
 }
 
 /**
- * Determines the number that has the most occurrences on an array
+ * Determines the index number that has the most occurrences in an array
  *
  * @param array
  * @param n          length of the array
